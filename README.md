@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/nils-christian/rapit.svg?branch=master)](https://travis-ci.org/nils-christian/rapit)
 
+<b>ATTENTION!</b> The rapit project is now part of the official tapir extensions at https://github.com/tapir-test/tapir-extensions. Thus this repository is no longer maintained.
+
 # rapit
 The rapit project contains various unofficial extensions for the tapir Test framework.
 
